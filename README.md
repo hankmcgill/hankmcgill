@@ -17,6 +17,6 @@ Check out my [portfolio](https://hankfontaine.github.io/Portfolio-Project/)
 Check out my [LinkedIn](https://www.linkedin.com/in/hank-mcgill-999750184/)
 
 ### Contact
-Got questions, feedback, or a request? Email me at henrymcgill@gmail.com, or feel free to reach out to me on Twitter: @hankfontaine.
+Got questions, feedback, or a request? Email me at henrymcgill@gmail.com, or feel free to reach out to me on [Twitter](https://twitter.com/hankfontaine).
 
 https://hankfontaine.com
