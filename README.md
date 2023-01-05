@@ -4,7 +4,7 @@ I'm Hank McGill (he/him).  I've been learning JavaScript, React, Webpack, HTML, 
 
 Right now I'm building my personal website and debugging some projects you can see on my profile - next up, I'm planning to learn Node.js and start getting my hands dirty with some more backend experience!
 
-After growing up in Paris, I moved to Los Angeles to attend Loyola Marymount University (majoring in English) and played in indie rock bands for almost ten years.  I got to tour the world and perform with some of my favorite artists.  Now I'm more interested in learning JavaScript, but you can check out my music by looking up Hank Fontaine wherever you stream music!
+After growing up in Paris, I moved to Los Angeles to attend Loyola Marymount University (majoring in English) and played in indie rock bands for almost ten years.  I got to tour the world and perform with some of my favorite artists.  Now I'm more interested in learning JavaScript, but you can check out my music by looking up [Hank Fontaine](https://open.spotify.com/artist/6BMHQ7tEQSZNqlFZPG7AbT) wherever you stream music!
 
 ## Collaboration
 
