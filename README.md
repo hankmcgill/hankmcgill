@@ -6,6 +6,9 @@ Right now I'm building my personal website and debugging some projects you can s
 
 After growing up in Paris, I moved to Los Angeles to attend Loyola Marymount University (majoring in English) and played in indie rock bands for almost ten years.  I got to tour the world and perform with some of my favorite artists.  Now I'm more interested in learning JavaScript, but you can check out my music by looking up [Hank Fontaine](https://open.spotify.com/artist/6BMHQ7tEQSZNqlFZPG7AbT) wherever you stream music!
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=hankfontaine&theme=great-gatsby)](https://git.io/streak-stats)
+
+
 ## Collaboration
 
 I would love to collaborate on any and all web apps you might be working on.  I'm particularly interested in improving my React skills - and I'm definitely looking to expand my API experience as well!  Message me with any ideas you might have!
