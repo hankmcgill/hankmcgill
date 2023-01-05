@@ -1,6 +1,6 @@
 # Hello world!
 
-I'm Hank McGill (he/him).  I've been learning JavaScript, React, Webpack, HTML, and CSS for about a year now.  I'm a self-taught student currently finishing up [The Odin Project](https://github.com/theodinproject)'s advanced JavaScript course.  Welcome to my GitHub profile!
+I'm Hank McGill (he/him).  I've been learning JavaScript, React, Webpack, HTML, and CSS for about a year now.  I'm a self-taught student currently finishing up [The Odin Project](https://github.com/theodinproject) advanced JavaScript course.  Welcome to my GitHub profile!
 
 Right now I'm building my personal website and debugging some projects you can see on my profile - next up, I'm planning to learn Node.js and start getting my hands dirty with some more backend experience!
 
