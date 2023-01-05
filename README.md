@@ -13,6 +13,7 @@ I would love to collaborate on any and all web apps you might be working on.  I'
 ## More info
 
 Check out my [portfolio](https://hankfontaine.github.io/Portfolio-Project/)
+<br>
 Check out my [LinkedIn](https://www.linkedin.com/in/hank-mcgill-999750184/)
 
 ### Contact
