@@ -7,9 +7,6 @@ After growing up in Paris, I moved to Los Angeles to attend Loyola Marymount Uni
 [![GitHub Streak](https://streak-stats.demolab.com?user=hankfontaine&theme=great-gatsby)](https://git.io/streak-stats)
 
 ## More info
-
-Check out my [portfolio.](https://hankfontaine.github.io/Portfolio-Project/)
-<br>
 Check out my [LinkedIn.](https://www.linkedin.com/in/hank-mcgill-999750184/)
 
 ### Contact
