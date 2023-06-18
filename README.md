@@ -1,7 +1,7 @@
-Hello! I'm Hank McGill (he/him).  Web developer, living in NYC. When I am not working on a new product, you can catch me on the beach in Thailand or hanging out in a chic cocktail bar on the Lower East Side!
+I'm Hank McGill (he/him), a New York City based web developer. My expertise is in accessible design, CI/CD, and full-stack web development. As an active member of the open source community, I helped create kafkaPRAAG, an Apache Kafka health and metrics visualization developer tool. Before I became a full-stack dev, I spent five years building static sites for bands in Los Angeles. I speak French and I've got an insatiable interest in world history. I bring a diverse skill set and unwavering dedication to every project I undertake - and I'm always down to talk about traveling on credit card points.
 
 ## More info
 Check out my [LinkedIn.](https://www.linkedin.com/in/hank-mcgill-999750184/)
 
 ### Contact
-Got questions, feedback, or a request? Email me at henrymcgill@gmail.com!
+Got questions? Email me at henrymcgill@gmail.com!
