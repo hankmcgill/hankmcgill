@@ -1,4 +1,4 @@
-Hello! I'm Hank McGill (he/him).  After growing up in Paris, I moved to Los Angeles to attend Loyola Marymount University and played in indie rock bands for almost ten years.  I got to tour the world and perform with some of my favorite artists - all as I was developing websites for musicians and other artists.
+Hello! I'm Hank McGill (he/him).  Web developer, living in NYC. When I am not working on a new project, you can catch me on the beach in Thailand or hanging out in a chic cocktail bar on the Lower East Side!
 
 ## More info
 Check out my [LinkedIn.](https://www.linkedin.com/in/hank-mcgill-999750184/)
